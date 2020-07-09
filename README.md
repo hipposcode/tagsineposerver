@@ -1,5 +1,5 @@
 # tagsineposerver
-Applying tags in an ePO 5.9 server
+Applying tags in a McAfee ePO 5.9/5.10 server
 
 Change all the text in capitals and between <> to reflect your server and run.  
 
